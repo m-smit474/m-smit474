@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Matthew Smith @m-smit474
+- 👀 I’m interested in Machine Learning and Web Applications
+- 🌱 I’m currently in my 3rd year at Mount Royal Univeristy
+- 📫 You can reach me at smithmw99@gmail.com
